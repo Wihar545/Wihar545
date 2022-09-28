@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🌱 I’m currently doing Masters In Data Science
+🌱 I’m currently doing Masters In Data Science <br/>
 🔭 I have 2years of Experience in Tata Consultancy Services
 💬 Ask me about Python,CDP(Treasure Data)
