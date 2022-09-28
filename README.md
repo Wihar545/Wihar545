@@ -1,4 +1,5 @@
-### Hi there 👋
+##### Hi there 👋
+#### Thanks for vising my profile
 
 <!--
 **Wihar545/Wihar545** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,5 +16,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 🌱 I’m currently doing Masters In Data Science <br/>
-🔭 I have 2years of Experience in Tata Consultancy Services
-💬 Ask me about Python,CDP(Treasure Data)
+🔭 I have 2years of Experience in Tata Consultancy Services<br/>
+💬 Ask me about Python,CDP(Treasure Data)<br/>
